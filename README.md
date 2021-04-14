@@ -21,7 +21,7 @@
 - **pip install pyaudio**
 
 Run program: 
-- **python main.py**
+- **python JARVIS.py**
 
 ### Warning ###
 When installing portaudio I encountered an error that was fixed with the following: xcode-select --install
