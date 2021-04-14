@@ -4,11 +4,15 @@
  
  # Instuctions (exclusive to MAC OS) #
  
-  Create a virtual environment using venv: **python3 -m venv venv**
+  Make sure Python 3.4+ is installed on the machine
  
-  Activate virtual environment: **source venv/bin/activate**
+  Create a virtual environment using venv: 
+  - **python3 -m venv venv**
+ 
+  Activate virtual environment: 
+  - **source venv/bin/activate**
 
-  Install modules if they aren't on the machine: 
+  Install modules if they aren't already on the machine: 
    
 - **pip install SpeechRecognition**
  
@@ -17,3 +21,7 @@
 - **pip install pyaudio**
 
 Run program: **python main.py**
+
+### Warning ###
+When installing portaudio I encountered an error that was fixed with the following: xcode-select --install
+
