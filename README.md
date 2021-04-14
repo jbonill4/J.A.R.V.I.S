@@ -4,14 +4,16 @@
  
  # Instuctions (exclusive to MAC OS) #
  
-  Create a virtual environment using venv: python3 -m venv venv
+  Create a virtual environment using venv: **python3 -m venv venv**
  
-  Activate virtual environment: source venv/bin/activate
+  Activate virtual environment: **source venv/bin/activate**
 
   Install modules if they aren't on the machine: 
    
-- pip install SpeechRecognition
+- **pip install SpeechRecognition**
  
-- brew install portaudio
+- **brew install portaudio**
  
-- pip install pyaudio
+- **pip install pyaudio**
+
+Run program: **python main.py**
