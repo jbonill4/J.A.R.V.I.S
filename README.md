@@ -2,7 +2,7 @@
 
  A voice assitant that uses [Speech Recognintion](https://pypi.org/project/SpeechRecognition/), [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/#downloads), and [pyttsx3](https://pypi.org/project/pyttsx3/). The modules pick up speech through a microphone and then convert that text into speech 
  
- # Instuctions (exclusive to MAC OS) #
+ # Instuctions (MAC OS) #
  
   Make sure Python 3.4+ is installed on the machine
  
